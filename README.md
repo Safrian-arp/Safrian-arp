@@ -1,9 +1,9 @@
 <h1 align="center">Hai 👋, saya safrian</h1>
 <h3 align="center">Saya mempelajari Data Analysis & Data Scientist.</h3>
 
-<p align="left"> <img src="https://png.pngtree.com/png-clipart/20220125/original/pngtree-a-man-using-laptop-illustration-png-image_7222935.png&label=Profile%20views&color=0e75b6&style= flat" alt="safrian-arp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safrian-arp&label=Profile%20views&color=0e75b6&style= flat" alt="safrian-arp" /> </p>
 
-- 🔭 Saat ini saya sedang mengerjakan [Analisis Data Proyek untuk Laporan Kinerja Penjualan Ritel](https://github.com/Safrian-arp/Project-Data- Analysis-Sales-Performance-Report.git)
+- 🔭 Saat ini saya sedang mengerjakan [Analisis Data Proyek untuk Laporan Kinerja Penjualan Ritel](https://github.com/Safrian-arp/Project-Data-Analysis-Sales-Performance-Report.git)
 
 - 🌱 Saya sedang belajar **Analisis Data & Ilmuwan Data**
 
