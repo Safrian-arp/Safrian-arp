@@ -6,13 +6,9 @@
 - 🔭 Saat ini saya sedang mengerjakan [Analisis Data Proyek untuk Laporan Kinerja Penjualan Ritel](https://github.com/Safrian-arp/Project-Data-Analysis-Sales-Performance-Report.git)
 
 - 🌱 Saya sedang belajar **Analisis Data & Ilmuwan Data**
-
-- 👨‍💻 Semua proyek saya tersedia di [https://github.com/Safrian-arp] (https://github.
-
-
-
+- 👨‍💻 Semua proyek saya tersedia di [https://github.com/Safrian-arp]
+- 📫 How to reach me **safrianarbi@gmail.com**
 - 📄 Ketahui pengalaman saya [https://drive.google.com/file/d/15r5YvQOT9Tgyq6z7Vlh2a9oFdS42Y6F7/view?usp=sharing]
-
 - ⚡ Fakta seru **saya suka ngopi**
 
 <h3 align="left">Connect with me:</h3>
